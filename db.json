@@ -5,11 +5,11 @@
       "item_name": "idly"
     },
     {
-      "item_id": 1,
+      "item_id": 2,
       "item_name": "vada"
     },
     {
-      "item_id": 1,
+      "item_id": 3,
       "item_name": "dosa"
     }
   ],
@@ -20,8 +20,8 @@
       "user_password": 1234
     },
     {
-      "user_id": 1,
-      "user_name": "ram",
+      "user_id": 2,
+      "user_name": "laxman",
       "user_password": 1234
     }
   ]
