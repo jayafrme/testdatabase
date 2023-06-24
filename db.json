@@ -1,0 +1,28 @@
+{
+  "fooditems": [
+    {
+      "item_id": 1,
+      "item_name": "idly"
+    },
+    {
+      "item_id": 1,
+      "item_name": "vada"
+    },
+    {
+      "item_id": 1,
+      "item_name": "dosa"
+    }
+  ],
+  "users": [
+    {
+      "user_id": 1,
+      "user_name": "ram",
+      "user_password": 1234
+    },
+    {
+      "user_id": 1,
+      "user_name": "ram",
+      "user_password": 1234
+    }
+  ]
+}
