@@ -25,4 +25,36 @@
       "user_password": 1234
     }
   ]
+  "your-api-url":[
+    {
+      "date":2023/6/1,
+      "description":"todays date is 1st june2023.",
+      "calorie_count":2567,
+    }
+    {
+      "date":2023/6/2,
+      "description":"todays date is 2nd june2023.",
+      "calorie_count":2347,
+    }
+    {
+      "date":2023/6/3,
+      "description":"todays date is 3rd june2023.",
+      "calorie_count":5623,
+    }
+    {
+      "date":2023/6/4,
+      "description":"todays date is 4th june2023.",
+      "calorie_count":1673,
+    }
+    {
+      "date":2023/6/5,
+      "description":"todays date is 5th june2023.",
+      "calorie_count":1345,
+    }
+    {
+      "date":2023/6/6,
+      "description":"todays date is 6th june2023.",
+      "calorie_count":1352,
+    }
+  ]
 }
