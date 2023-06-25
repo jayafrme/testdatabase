@@ -25,7 +25,7 @@
       "user_password": 1234
     }
   ]
-  "your-api-url":[
+  "your_api_url":[
     {
       "date":"2023/6/1",
       "description":"todays date is 1st june2023.",
