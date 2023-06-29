@@ -57,4 +57,232 @@
       "calorie_count":1352,
     }
   ]
+"books":[
+  {
+    "id":"1",
+    "title":"Throne of Glass Book1",
+    "year":"2012",
+    "img":"../../public/assets/images/book1.jpg",
+    "summary":"The story follows the journey of Celaena Sardothien, a teenage assassin in a corrupt kingdom with a tyrannical ruler, the King of Adarlan. As the tale ...",
+    "rating":"4.7" ,
+    "genre":"fantasy",
+    "author":"Sara J. Maas"
+  },
+  {
+    "id":"2",
+    "title":"Crown of Midnight tog-2",
+    "year":"2013",
+    "img":"../../public/assets/images/book2.jpg",
+    "summary":"Chaol decides the safest place for Celaena is away from the king and Adarlan. He goes to his father, who has been at the castle counseling the ...",
+    "rating":"4.3" ,
+    "genre":"fantasy",
+    "author":"Sara J. Maas"
+    
+  },
+   {
+    "id":"3",
+    "title":"Heir of Fire tog-3",
+    "year":"2014",
+    "img":"../../public/assets/images/book3.jpg",
+    "summary":"He leaves to go to Terrsaen to let her people and other realms along the way know. The king of Adarlan is in an absolute rage about the news.",
+    "rating":"4.3" ,
+    "genre":"fantasy",
+    "author":"Sara J. Maas"
+    
+  },
+  {
+    "id":"4",
+    "title":"Queen of Shadows tog-4",
+    "year":"2014",
+    "img":"../../public/assets/images/book4.jpg",
+    "summary":"Aelin returns to Rifthold and finds Arobynn in a tavern. He tells her Aedion is imprisoned for treason and will be executed in three days. He ...",
+    "rating":"4.4" ,
+    "genre":"fantasy",
+    "author":"Sara J. Maas"
+    
+  },
+  {
+    "id":"5",
+    "title": "To Kill a Mockingbird",
+    "year": 1960,
+    "img":"../../public/assets/images/book5.jpg",
+    "summary": "The novel, set in the 1930s in Alabama, follows Scout Finch, a young girl, and her father, Atticus Finch, who defends an innocent black man accused of rape. It explores themes of racial injustice and the loss of innocence.",
+    "rating": 4.27,
+    "genre": "Fiction",
+    "author": "Harper Lee"
+  },
+  {
+    "id":"6",
+    "title": "Pride and Prejudice",
+    "year": 1813,
+    "img":"../../public/assets/images/book6.jpg",
+    "summary": "Set in early 19th-century England, the story revolves around Elizabeth Bennet and her relationship with Mr. Darcy. It explores themes of love, societal expectations, and personal growth.",
+    "rating": 4.26,
+    "genre": "Fiction",
+    "author": "Jane Austen"
+  },
+  {
+    "id":"7",
+    "title": "The Great Gatsby",
+    "year": 1925,
+    "img":"../../public/assets/images/book7.jpg",
+    "summary": "Set in the 1920s, the novel portrays the glamorous and decadent lifestyle of Jay Gatsby and the disillusionment of the American Dream. It delves into themes of wealth, love, and the emptiness of materialism.",
+    "rating": 3.94,
+    "genre": "Fiction"
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "id":"8",
+    "title": "1984",
+    "year": 1949,
+    "img":"../../public/assets/images/book8.jpg",
+    "summary": "Set in a dystopian future, the novel follows Winston Smith, a man living in a totalitarian society ruled by the Party. It explores themes of government surveillance, censorship, and the loss of individuality.",
+    "rating": 4.19,
+    "genre": "Fiction",
+    "author": "George Orwell"
+  },
+  {
+    "id":"9",
+    "title": "To the Lighthouse",
+    "year": 1927,
+    "img":"../../public/assets/images/book9.jpg",
+    "summary": "The novel is divided into three sections and explores the lives and thoughts of the Ramsay family and their guests. It delves into themes of the passage of time, memory, and the complexities of human relationships.",
+    "rating": 3.77,
+    "genre": "Fiction",
+    "author": "Virginia Woolf"
+  },
+  {
+    "id":"10",
+    "title": "The Catcher in the Rye",
+    "year": 1951,
+    "img":"../../public/assets/images/book10.jpg",
+    "summary": "The story revolves around Holden Caulfield, a disillusioned teenager, as he navigates through life, school, and encounters with various characters. It explores themes of teenage angst, alienation, and the loss of innocence.",
+    "rating": 3.82,
+    "genre": "Fiction",
+    "author": "J.D. Salinger"
+  },
+  {
+    "id":"11",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "year": 1997,
+    "img":"../../public/assets/images/book11.jpg",
+    "summary": "The first book in the Harry Potter series follows the journey of Harry Potter, a young wizard, as he discovers his magical abilities and begins his education at Hogwarts School of Witchcraft and Wizardry.",
+    "rating": 4.48,
+    "genre": "Fiction",
+    "author": "J.K. Rowling"
+  },
+  {
+    "id":"12",
+    "title": "Sapiens: A Brief History of Humankind",
+    "year": 2011,
+    "img":"../../public/assets/images/book12.jpg",
+    "summary": "This book explores the history of Homo sapiens, covering the development of humans from prehistoric times to the present day, and examines the impact of various revolutions on human societies.",
+    "rating": 4.42,
+    "genre": "Non-Fiction",
+    "author": "Yuval Noah Harari"
+  },
+  {
+    "id":"13",
+    "title": "The Immortal Life of Henrietta Lacks",
+    "year": 2010,
+    "img":"../../public/assets/images/book13.jpg",
+    "summary": "This book tells the true story of Henrietta Lacks, a woman whose cells were unknowingly taken and used for scientific research without her consent. It explores the ethical implications and medical advances resulting from her immortal cells.",
+    "rating": 4.06,
+    "genre": "Non-Fiction",
+    "author": "Rebecca Skloot"
+  },
+  {
+    "id":"14",
+    "title": "Gone Girl",
+    "year": 2012,
+     "img":"../../public/assets/images/book14.jpg",
+    "summary": "The story follows Nick Dunne, whose wife Amy mysteriously disappears on their fifth wedding anniversary. As the investigation unfolds, secrets and lies are revealed, keeping readers guessing about what really happened.",
+    "rating": 4.01,
+    "genre": "Mystery"],
+    "author": "Gillian Flynn"
+  },
+  {
+    "id":"15",
+    "title": "The Girl with the Dragon Tattoo",
+    "year": 2005,
+     "img":"../../public/assets/images/book15.jpg",
+    "summary": "This novel introduces Lisbeth Salander, a computer hacker, and Mikael Blomkvist, a journalist, as they investigate the disappearance of a wealthy family's daughter. The story delves into dark secrets and conspiracies.",
+    "rating": 4.12,
+    "genre": "Mystery",
+    "author": "Stieg Larsson"
+  },
+   {
+     "id":"16",
+    "title": "The Fault in Our Stars",
+    "year": 2012,
+      "img":"../../public/assets/images/book16.jpg",
+    "summary": "The novel follows Hazel Grace Lancaster, a teenage girl with cancer, as she meets and falls in love with Augustus Waters at a support group. It explores themes of love, friendship, and mortality.",
+    "rating": 4.20,
+    "genre": "Young Adult",
+    "author": "John Green"
+  },
+  {
+    "id":"17",
+    "title": "The Hunger Games",
+    "year": 2008,
+     "img":"../../public/assets/images/book17.jpg",
+    "summary": "In a dystopian future, the book follows Katniss Everdeen as she volunteers for the Hunger Games, a televised fight to the death, to protect her sister. It explores themes of survival, rebellion, and sacrifice.",
+    "rating": 4.33,
+    "genre": "Young Adult",
+    "author": "Suzanne Collins"
+  },
+   {
+     "id":"18",
+    "title": "The Kiss Thief",
+    "year": 2019,
+    "img":"../../public/assets/images/book18.jpg",
+    "summary": "This book tells the story of Francesca Rossi, an heiress forced into an arranged marriage with a powerful mobster, Senator Wolfe Keaton. It explores the complexities of their relationship and the dangerous world they inhabit.",
+    "rating": 4.15,
+    "genre": "MafiaRomance",
+    "author": "L.J. Shen"
+  },
+  {
+    "id":"19",
+    "title": "Crow: Boston Underworld",
+    "year": 2016,
+     "img":"../../public/assets/images/book19.jpg",
+    "summary": "The novel follows MacKayla 'Mac' Foster, who finds herself caught between loyalty and love when she becomes entangled with Lachlan Crow, the ruthless leader of the Boston underworld.",
+    "rating": 4.14,
+    "genre": "MafiaRomance",
+    "author": "A. Zavarelli"
+  },
+  {
+    "id":"20",
+    "title": "Bound by Honor",
+    "year": 2014,
+     "img":"../../public/assets/images/book20.jpg",
+    "summary": "The book introduces Aria Scuderi, who is promised to Luca Vitiello, the heir of a powerful Italian mafia family. As Aria navigates the dangerous world of organized crime, forbidden love blooms between her and Luca.",
+    "rating": 4.07,
+    "genre": "MafiaRomance",
+    "author": "Corinne Michaels"
+  },
+  {
+    "id":"21",
+    "title": "Nero",
+    "year": 2020,
+     "img":"../../public/assets/images/book21.jpg",
+    "summary": "The story revolves around Nero Mariani, the enigmatic and ruthless leader of a powerful mafia syndicate, and Elara Adams, a woman caught in the crosshairs of his dangerous world. Their intense attraction leads them down a path of forbidden romance.",
+    "rating": 4.23,
+    "genre": "MafiaRomance",
+    "author": "Sarah Brianne"
+  },
+  {
+    "id":"22",
+    "title": "Filthy Marcellos: Lucian",
+    "year": 2013,
+     "img":"../../public/assets/images/book22.jpg",
+    "summary": "The book follows Lucy, a young woman who falls for Lucian Marcello, the son of a notorious mafia boss. Their love affair is filled with danger, secrets, and loyalty as they navigate the complexities of their forbidden relationship.",
+    "rating": 4.15,
+    "genre": "MafiaRomance",
+    "author": "Bethany-Kris"
+  }
+  
+]
 }
+  
+  
